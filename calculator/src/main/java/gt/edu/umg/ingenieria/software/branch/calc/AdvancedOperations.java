@@ -28,4 +28,5 @@ public interface AdvancedOperations {
      * @return El valor de pi con al menos 15 decimales
      */
     public double pi();
+    public void ayuda();
 }
